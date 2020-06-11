@@ -97,6 +97,7 @@ div#mobile_menu ul {
 /*Stuff===================================================*/
 
 div#description {
+	padding-top: 120px;
 	padding-bottom: 50px;
 }
 
@@ -146,7 +147,7 @@ div#description img	{
 	}
 	
 	div.steps	{
-
+		width: 100%;
 	}
 	
 	div#steps_left	{
@@ -154,16 +155,15 @@ div#description img	{
 		margin-left: 12%;
 		margin-right: 5%;
 		display: inline-block;
-		float: left;
 	}
 	
 	div#steps_right	{
 		width: 40%;
-		float: left;
+		display: inline-block;
 	}
 	
 	section#contact	{
-		clear: both;
+		padding: 50px 0;
 	}
 	
 	div#yah	{
