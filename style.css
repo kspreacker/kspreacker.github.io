@@ -115,7 +115,7 @@ div#description img	{
 	}
 	
 	section#about	{
-		height: 100vh;
+
 	}
 	
 	section#about p	{
@@ -132,12 +132,11 @@ div#description img	{
 	}
 	
 	section#learn	{
-		height: 100vh;
 		background-color: #eeeeee;
 	}
 	
 	section#steps	{
-		height: 100vh;
+		padding: 40px 0 40px 0;
 		background-color: #eeeeee;
 	}
 	
@@ -167,7 +166,6 @@ div#description img	{
 	
 	section#contact	{
 		clear: both;
-		height: 100vh;
 	}
 	
 	div#yah	{
